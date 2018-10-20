@@ -2,10 +2,10 @@
 For Arma 3 APEX
 Set of scripts that automatically populate civilians and vehicles near the initialized object(s).
 
--Populates civlians in buildings and nearby open spaces
--Empty vehicles are spawned in tight spaces and alleyways near buildings, along fences, by parking meters, etc.
--Populates AI-driven vehicles on nearby roads
--Civilians automatically enter/exit buildings, sit on benches, walk to new destinations, etc.
+- Populates civlians in buildings and nearby open spaces
+- Empty vehicles are spawned in tight spaces and alleyways near buildings, along fences, by parking meters, etc.
+- Populates AI-driven vehicles on nearby roads
+- Civilians automatically enter/exit buildings, sit on benches, walk to new destinations, etc.
 -Drivers automatically drive around any nearby roads, selecting their own destinations
 -Drivers will stop and honk at any vehicles or people that block their path
 -Civilians and drivers are automatically despawned when far away for performance
