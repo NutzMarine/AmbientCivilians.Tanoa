@@ -1,0 +1,6 @@
+author = "Nutz Marine";
+onLoadName = "Ambient Civilians";
+OnLoadMission = "Demo of ambient civilian scripts";
+
+#define true  1
+#define false 0
